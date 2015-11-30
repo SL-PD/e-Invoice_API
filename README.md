@@ -1,6 +1,9 @@
 # e-Invoice_API
-e棣栫櫦绁ˋPI <br />
-API閫ｇ窔缍插潃锛歨ttp://mis.youshop.com.tw/api/invoiceService.asmx <br />
-鍙互閬告搰 <br />
-鏂规硶1锛氶�忛亷WebService瀵叆瑷傚柈璩囨枡 [OrdersAppend] <br />
-鏂规硶2锛氶�忛亷JOSN瀵叆瑷傚柈璩囨枡 [OrdersAppendFromJson] <br />
+e祇布API <br />
+API硈絬呼http://mis.youshop.com.tw/api/invoiceService.asmx <br />
+匡拒 <br />
+よ猭1硓筁WebService糶璹虫戈 [OrdersAppend] <br />
+よ猭2硓筁JOSN糶璹虫戈 [OrdersAppendFromJson] <br />
+
+糶祇布把σ絛ㄒ AppendInvoice.aspx <br />
+弄祇布把σ絛ㄒ GetInvoice.aspx <br />

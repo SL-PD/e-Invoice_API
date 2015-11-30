@@ -8,7 +8,7 @@ using EasyCart.Models.OrderImport;
 
 namespace EasyCartAdmin.TestCode
 {
-    public partial class TestwsInvoiceService : System.Web.UI.Page
+    public partial class AppendInvoice : System.Web.UI.Page
     {
         //帳號
         private const string _USERNO = "XXX";
