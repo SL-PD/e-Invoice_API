@@ -16,7 +16,7 @@ API連線網址：http://mis.youshop.com.tw/api/invoiceService.asmx <br />
 //買受人名稱(若InvoiceFor=B則為必填) <br />BuyerName = "";<br />
 //買受人發票抬頭(若InvoiceFor=B則為必填) <br />BuyerInvoiceTitle = "";<br />
 //買受人統編(若InvoiceFor=B則為必填) <br />BuyerCompanyId = "";<br />
-**//客戶電子郵件(必填)<br />BuyerEmail = "service@systemlead.com.tw";** <br />
+**//客戶電子郵件(必填;若要簡訊通知請填寫為[行動電話]@einv.com.tw:例如 0912345678@einv.com.tw)<br />BuyerEmail = "service@systemlead.com.tw";** <br />
 //客戶行動電話 <br />BuyerCellPhone = "";<br />
 **//訂單總額(未稅)(必填)<br />Amount = 3000;** <br />
 //課稅類別(預設為應稅) <br />TaxType = "1";<br />
