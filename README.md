@@ -12,9 +12,10 @@ API連線網址：http://mis.youshop.com.tw/api/invoiceService.asmx <br />
 **//訂單號碼(必填)<br />OrderID = "B20150519002";<br />**
 **//訂單日期(必填:請轉為日期時間格式，JSON格式為/Date(1349301600000+0200)/<br />OrderDate = Convert.ToDateTime("2015-05-14");** <br />
 **//發票類型(必填)<br />InvoiceFor = "C";** <br />
-//買受人名稱 <br />BuyerName = "";<br />
-//買受人發票抬頭 <br />BuyerInvoiceTitle = "";<br />
-//買受人統編 <br />BuyerCompanyId = "";<br />
+**開立給政府法人下面三個欄位必填但InvoiceFor請設定為C**<br />
+//買受人名稱(若InvoiceFor=B則為必填) <br />BuyerName = "";<br />
+//買受人發票抬頭(若InvoiceFor=B則為必填) <br />BuyerInvoiceTitle = "";<br />
+//買受人統編(若InvoiceFor=B則為必填) <br />BuyerCompanyId = "";<br />
 **//客戶電子郵件(必填)<br />BuyerEmail = "service@systemlead.com.tw";** <br />
 //客戶行動電話 <br />BuyerCellPhone = "";<br />
 **//訂單總額(未稅)(必填)<br />Amount = 3000;** <br />
