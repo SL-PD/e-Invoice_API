@@ -8,7 +8,7 @@ API連線網址：http://mis.youshop.com.tw/api/invoiceService.asmx <br />
 寫入發票可參考範例 AppendInvoice.aspx <br />
 讀取發票可參考範例 GetInvoice.aspx <br />
 
-傳送欄位如下:
+傳送欄位如下: <br />
 **OrderID = "B20150519002";//訂單號碼(必填)** <br />
 **OrderDate = Convert.ToDateTime("2015-05-14");//訂單日期(必填:請轉為日期時間格式，JSON格式為/Date(1349301600000+0200)/** <br />
 **InvoiceFor = "C";//發票類型(必填)** <br />
