@@ -1,6 +1,10 @@
 # e-Invoice_API
 e首發票API <br />
-API連線網址：http://mis.youshop.com.tw/api/invoiceService.asmx <br />
+測試區API連線網址：http://web.systemlead.com/EasyCartAdmin/api/invoiceService.asmx <br />
+:exclamation::exclamation:**請先在測試區確認成功後再傳正式區**:exclamation::exclamation:<br />
+:exclamation::exclamation:**請先在測試區確認成功後再傳正式區**:exclamation::exclamation:<br />
+:exclamation::exclamation:**請先在測試區確認成功後再傳正式區**:exclamation::exclamation:<br />
+正式區API連線網址：http://mis.youshop.com.tw/api/invoiceService.asmx <br />
 可以選擇 <br />
 方法1：透過WebService寫入訂單資料 [OrdersAppend] <br />
 方法2：透過JOSN寫入訂單資料 [OrdersAppendFromJson] <br />
