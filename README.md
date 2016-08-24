@@ -10,7 +10,7 @@ e首發票API <br />
 方法2：透過JOSN寫入訂單資料 [OrdersAppendFromJson] <br />
 
 寫入發票可參考範例 .NET版本 [PHP版本](https://gist.github.com/SL-PD/1cc693c003cdc325c57aac2caac816f5) AppendInvoice.aspx <br />
-讀取發票可參考範例 GetInvoice.aspx <br />
+讀取發票可參考範例 .NET版本 [PHP版本](https://gist.github.com/SL-PD/6763b36bb04ae6f88d47338428687b69) GetInvoice.aspx <br />
 
 傳送欄位如下: <br />
 **//訂單號碼(必填)<br />OrderID = "B20150519002";<br />**
