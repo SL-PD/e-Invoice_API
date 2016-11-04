@@ -1,4 +1,4 @@
-# e-Invoice_API
+# e首發票API單單版__API
 e首發票API <br />
 測試區API連線網址：http://web.systemlead.com/EasyCartAdmin/api/invoiceService.asmx <br />
 :exclamation::exclamation:**請先在測試區確認成功後再傳正式區**:exclamation::exclamation:<br />
