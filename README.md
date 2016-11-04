@@ -12,7 +12,7 @@ e首發票 API 主要分為兩種，這兩種將對應到不同的站台提供�
   採用SOAP的方式傳送，以 SoapHeader 認證
   訂單版e首發票 API 測試區串接位置：
   http://web.systemlead.com/EasyCartAdmin/api/invoiceService.asmx
-  相關說明文件，可參閱 https://github.com/SL-PD/e-Invoice_API 說明
+  相關說明文件，可參閱 [訂單版_API](https://github.com/SL-PD/e-Invoice_API/blob/master/OrderVersion/CS/README.md) 說明
   ```
 
 * 拋入已開立發票由e首發票進行後續整合作業(發票版)
