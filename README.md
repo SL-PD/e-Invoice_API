@@ -1,4 +1,4 @@
-#e首發票 API 說明文件
+e首發票 API 說明文件
 
 此文件主要為e首發票 API 相關說明文件，內容以 2016-10 月矽聯科技定義之API為說明範本，程式仍以目前釋出版本為主。
 
@@ -10,7 +10,7 @@ e首發票 API 主要分為兩種，這兩種將對應到不同的站台提供�
 
   採用SOAP的方式傳送，以 SoapHeader 認證<br />
   訂單版e首發票 API 測試區串接位置：<br />
-  http://web.systemlead.com/EasyCartAdmin/api/invoiceService.asmx <br />
+  http://web.systemlead.com/EasyCartAdmin/api/invoiceService.asmx<br />
   相關說明文件，可參閱[訂單版API](https://github.com/SL-PD/e-Invoice_API/blob/master/OrderVersion/CS/README.md)說明
 
 
