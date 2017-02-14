@@ -18,7 +18,7 @@ e首發票 API 主要分為兩種，這兩種將對應到不同的站台提供�
 
   採用的是HTTP POST的方式傳送，以 SHA256簽章值 驗證<br />
   發票版e首發票 API 測試區串接位置：<br />
-  http://web2.systemlead.com/EINV2API/api/einv/<br />
+  http://tserv.youshop.com.tw/api/einv/<br />
   相關說明文件，可參閱[發票版API](https://sl-pd.gitbooks.io/einvoice_api/content/)說明
   其版本與正式區相符，惟正式區網址，待測試區測通後，將由業務人員提供。<br />
  
